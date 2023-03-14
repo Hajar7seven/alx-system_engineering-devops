@@ -1,2 +1,2 @@
 #!/bin/bash
-WATER="water" STIR="stir." | printf bestchool=$WATER+$STIR
+WATER="water" STIR="stir." | printf $bestchool=$WATER+$STIR
